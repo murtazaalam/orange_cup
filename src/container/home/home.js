@@ -8,7 +8,6 @@ const Home = ()=>{
 
              <NavLink to="/register">
                  Register
-
              </NavLink>
              <NavLink to="/login">
                  Login To Account

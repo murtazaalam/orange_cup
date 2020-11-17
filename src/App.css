@@ -29,11 +29,13 @@ a:hover{
   padding-left: 28px;
   padding-right: 28px;
   padding-bottom: 4rem;
-  /* color: #FFFFFF !important; */
+  background: url(./assets/images/back.svg);
+
+  /* color: #FFFFFF !important;
   /* text-align: center; */
   /* clip-path: polygon(0% 0%, 1% 63%, 11% 64%, 15% 63%, 21% 60%, 27% 60%, 31% 61%, 34% 62%, 37% 64%, 43% 65%, 49% 67%, 53% 71%, 59% 75%, 65% 74%, 69% 72%, 71% 68%, 74% 63%, 75% 61%, 80% 57%, 85% 55%, 91% 52%, 97% 49%, 99% 48%, 100% 42%, 100% 27%, 100% 0%); */
 
-  background-image: linear-gradient(to bottom, #ff8200, #ff8700, #ff8c00, #ff9100, #ff9600, #ff9b00, #ffa100, #ffa600, #ffad00, #ffb400, #ffba00, #ffc100);
+  /* background-image: linear-gradient(to bottom, #ff8200, #ff8700, #ff8c00, #ff9100, #ff9600, #ff9b00, #ffa100, #ffa600, #ffad00, #ffb400, #ffba00, #ffc100); */ 
 }
 .input-custom{
   height: 53px;
