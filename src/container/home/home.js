@@ -10,6 +10,9 @@ const Home = ()=>{
                  Register
 
              </NavLink>
+             <NavLink to="/login">
+                 Login To Account
+             </NavLink>
          </div>
         </>
     )
