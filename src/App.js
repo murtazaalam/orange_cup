@@ -1,8 +1,11 @@
-import logo from './logo.svg';
+import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
+import Routes from './routes/routes';
 
 const App = () => {
-    return ();
+    return (
+        <Routes name="App"></Routes>
+    );
 }
 
 export default App;
